@@ -4,3 +4,6 @@ Faça um programa ou teste interativamente, criando pelo menos dois macacos,
 alimentando-os com pelo menos 3 alimentos diferentes e verificando o conteúdo do estomago a cada refeição.
 Experimente fazer com que um macaco coma o outro. É possível criar um macaco canibal?
 =end
+class Macaco
+
+end

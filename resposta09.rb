@@ -12,4 +12,15 @@
     h. O valor do centro do objeto deve ser mostrado na tela
     i. Crie um menu para alterar os valores do retângulo e imprimir o centro deste retângulo.
 =end
+class Ponto
+  attr_accessor :x, :y
 
+  def to_s
+    "#{self} (#{@x},#{@y})"
+  end
+end
+
+class Retangulo
+  attr_accessor :largura, :altura
+
+end
